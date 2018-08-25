@@ -1,5 +1,7 @@
 # VMSep-2010
 
+
+####音频人声伴奏分离
 The Matlab code in this repository can separate the singing voice and the accompaniment from monaural audio recordings. This was the topic of my bachelor thesis in Tsinghua University.
 
 You can run the code in either of the following two ways. If you have the mixture signal in the Matlab workspace, you can call:
@@ -17,3 +19,4 @@ where the three input arguments specify the names of the input mixture file, out
 For how the code works, please check out the paper in the ```ref``` folder.
 
 This work was done a long time ago, and the code will no longer be updated (sorry T_T). But feel free to adapt it for your own purpose.
+音频人声伴奏分离
